@@ -1,7 +1,7 @@
-﻿! Alex's AD List for Chinese Websites
-
-! Homepage: https://github.com/AlexGuo1998/AdList
+﻿[Adblock Plus 2.0]
+! Alex's AD List for Chinese Websites
 ! Title: Alex's AD List
+! Homepage: https://github.com/AlexGuo1998/AdList
 ! Expires: 7 days
 ! Redirect: https://raw.githubusercontent.com/AlexGuo1998/AdList/master/list.txt
 ! Version: 20180128
