@@ -1,10 +1,11 @@
 ﻿[Adblock Plus 2.0]
-! Alex's AD List for Chinese Websites
+! Checksum: zRqZ8HkbLINNZSDiV4jW4A
+! Version: 20180128
 ! Title: Alex's AD List
 ! Homepage: https://github.com/AlexGuo1998/AdList
 ! Expires: 7 days
-! Redirect: https://raw.githubusercontent.com/AlexGuo1998/AdList/master/list.txt
-! Version: 20180128
+
+! Alex's AD List for Chinese Websites
 
 ! 浮动的分享按钮
 ###bdshare
