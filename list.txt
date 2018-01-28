@@ -1,0 +1,27 @@
+﻿! Alex's AD List for Chinese Websites
+
+! Homepage: https://github.com/AlexGuo1998/AdList
+! Title: Alex's AD List
+! Expires: 7 days
+! Redirect: https://raw.githubusercontent.com/AlexGuo1998/AdList/master/list.txt
+! Version: 20180128
+
+! 浮动的分享按钮
+###bdshare
+baidu.com##.fenxiang
+
+! 百度文库
+wenku.baidu.com###activity-tg
+wenku.baidu.com##.top-ads-banner-goto-cashier.log-xsend
+
+! 百度知道回顶
+zhidao.baidu.com##.jump-top-box
+
+! 百度百科的分享按钮、右侧栏的活动内容
+baike.baidu.com###side-share
+baike.baidu.com##.lemmaWgt-promotion-vbaike
+baike.baidu.com##.lemmaWgt-promotion-slide
+baike.baidu.com##.declare
+
+! 高分屏浏览淘宝时会显示缩放不正确提示
+taobao.com##.tb-doctor
