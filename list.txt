@@ -1,9 +1,9 @@
 ﻿[Adblock Plus 2.0]
-! Checksum: zRqZ8HkbLINNZSDiV4jW4A
+! Checksum: mGwyTHS+kVwCbraroHIspg
 ! Version: 20180128
 ! Title: Alex's AD List
 ! Homepage: https://github.com/AlexGuo1998/AdList
-! Expires: 7 days
+! Expires: 1 day
 
 ! Alex's AD List for Chinese Websites
 
@@ -23,6 +23,7 @@ baike.baidu.com###side-share
 baike.baidu.com##.lemmaWgt-promotion-vbaike
 baike.baidu.com##.lemmaWgt-promotion-slide
 baike.baidu.com##.declare
+baike.baidu.com##.right-ad
 
 ! 高分屏浏览淘宝时会显示缩放不正确提示
 taobao.com##.tb-doctor
