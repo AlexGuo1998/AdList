@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 2.0]
-! Checksum: mGwyTHS+kVwCbraroHIspg
+! Checksum: yJcywZ+og4+s798VZKcnRA
 ! Version: 20180128
 ! Title: Alex's AD List
 ! Homepage: https://github.com/AlexGuo1998/AdList
@@ -27,3 +27,8 @@ baike.baidu.com##.right-ad
 
 ! 高分屏浏览淘宝时会显示缩放不正确提示
 taobao.com##.tb-doctor
+
+! CSDN的登录提示框，浮动分享按钮
+blog.csdn.net###share_box
+blog.csdn.net##.left_menu
+blog.csdn.net##.pulllog-box
