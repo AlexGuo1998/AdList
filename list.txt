@@ -1,6 +1,6 @@
 ﻿[Adblock Plus 2.0]
-! Checksum: yJcywZ+og4+s798VZKcnRA
-! Version: 20180128
+! Checksum: Z03X+ROmIWOxRrDIwIRQiw
+! Version: 20180225
 ! Title: Alex's AD List
 ! Homepage: https://github.com/AlexGuo1998/AdList
 ! Expires: 1 day
@@ -14,6 +14,10 @@ baidu.com##.fenxiang
 ! 百度文库
 wenku.baidu.com###activity-tg
 wenku.baidu.com##.top-ads-banner-goto-cashier.log-xsend
+
+! 百度文库加入VIP按钮
+wenku.baidu.com##.vip-free-auto
+wenku.baidu.com##.end-download-bottom-layout.clearfix
 
 ! 百度知道回顶
 zhidao.baidu.com##.jump-top-box
