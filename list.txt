@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 2.0]
-! Checksum: Z03X+ROmIWOxRrDIwIRQiw
+! Checksum: Q1exIrvP53y9YdxmgxlOeQ
 ! Version: 20180225
 ! Title: Alex's AD List
 ! Homepage: https://github.com/AlexGuo1998/AdList
@@ -28,6 +28,12 @@ baike.baidu.com##.lemmaWgt-promotion-vbaike
 baike.baidu.com##.lemmaWgt-promotion-slide
 baike.baidu.com##.declare
 baike.baidu.com##.right-ad
+
+! 百度右侧的搜索热点
+www.baidu.com##div[tpl="right_toplist"]
+
+! 百度经验警告（存在外链）
+jingyan.baidu.com##.warning-warpper
 
 ! 高分屏浏览淘宝时会显示缩放不正确提示
 taobao.com##.tb-doctor
