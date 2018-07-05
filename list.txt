@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 2.0]
-! Checksum: Q1exIrvP53y9YdxmgxlOeQ
+! Checksum: JvxHe7iQne05/aV2Rsfegw
 ! Version: 20180225
 ! Title: Alex's AD List
 ! Homepage: https://github.com/AlexGuo1998/AdList
@@ -31,6 +31,9 @@ baike.baidu.com##.right-ad
 
 ! 百度右侧的搜索热点
 www.baidu.com##div[tpl="right_toplist"]
+
+! 百度搜索的广告
+www.baidu.com##div[class="result c-container"]
 
 ! 百度经验警告（存在外链）
 jingyan.baidu.com##.warning-warpper
